@@ -1,0 +1,44 @@
+[
+  {
+    "card_title": "SCAN & PAY",
+    "main_text": "Pay online for every ride",
+    "button_text": "Know More",
+    "image": "/assets/scan-pay.png",
+    "image_position": "justify-end"
+  },
+  {
+    "card_title": "GO EVERYWHERE",
+    "main_text": "Covering 350+ places in IIT BHU",
+    "button_text": null,
+    "image": "/assets/scan-pay.png",
+    "image_position": "justify-end"
+  },
+  {
+    "card_title": "FAIR PRICES",
+    "main_text": "Book rides at fair prices",
+    "button_text": "Know More",
+    "image": "/assets/fair-prices.png",
+    "image_position": "justify-end"
+  },
+  {
+    "card_title": "SHARE YOUR RIDE",
+    "main_text": "Pool seamlessly with your friends",
+    "button_text": "Know More",
+    "image": "/assets/share-ride.png",
+    "image_position": "justify-start"
+  },
+  {
+    "card_title": "ASSURED RIDES",
+    "main_text": "Get your rides in just 2 minutes",
+    "button_text": "Know More",
+    "image": "/assets/fair-prices.png",
+    "image_position": "justify-end"
+  },
+  {
+    "card_title": "GO ANYTIME",
+    "main_text": "Schedule your rides for later",
+    "button_text": "Know More",
+    "image": "/assets/share-ride.png",
+    "image_position": "justify-end"
+  }
+]

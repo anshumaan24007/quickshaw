@@ -1,0 +1,52 @@
+{
+  "complaintOptions": [
+    {
+      "id": "inappropriate",
+      "label": "Inappropriate behaviour",
+      "icon": "AlertCircle",
+      "color": "text-red-500"
+    },
+    {
+      "id": "overpricing",
+      "label": "Over pricing",
+      "icon": "DollarSign",
+      "color": "text-yellow-500"
+    },
+    {
+      "id": "vehicle_condition",
+      "label": "Bad vehicle condition",
+      "icon": "Car",
+      "color": "text-gray-500"
+    },
+    {
+      "id": "unsafe",
+      "label": "Felt unsecure during the ride",
+      "icon": "Shield",
+      "color": "text-orange-500"
+    },
+    {
+      "id": "overspeeding",
+      "label": "Overspeeding or inappropriate driving",
+      "icon": "Gauge",
+      "color": "text-red-600"
+    },
+    {
+      "id": "wrong_route",
+      "label": "Taking unknown & remote routes",
+      "icon": "MapPin",
+      "color": "text-blue-500"
+    },
+    {
+      "id": "overpooling",
+      "label": "Overpooling & uncomfortable ride",
+      "icon": "Users",
+      "color": "text-purple-500"
+    },
+    {
+      "id": "other",
+      "label": "Any other complaint",
+      "icon": "MessageSquare",
+      "color": "text-gray-500"
+    }
+  ]
+}
